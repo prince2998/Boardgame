@@ -1,8 +1,5 @@
 name: CICD Pipeline
 
-on:
-  push:
-    branches: [ "main" ]
 
 jobs:
   build:
